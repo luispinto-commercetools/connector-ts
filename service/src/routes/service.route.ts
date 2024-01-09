@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import { logger } from '../utils/logger.utils';
 
 const serviceRouter = Router();
 
